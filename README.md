@@ -5,7 +5,7 @@
  
  2. Lenguaje: R
  
- 3. Tema: Regresión logistica binaria: Modelos [glm] y Curvas ROC &amp; AUC
+ 3. Tema: Regresión logistica binaria: Modelos [glm] y Curvas ROC & AUC
  
  4. Fuentes:  
     https://dlegorreta.wordpress.com/tag/e1071/"
