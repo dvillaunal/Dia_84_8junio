@@ -1,3 +1,14 @@
+---
+title: "Dia_84_8junio"
+author: "Daniel Felipe Villa Rengifo"
+date: "10/6/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 ```{r, eval=FALSE, include=TRUE}
 "Protocolo:
  
@@ -193,3 +204,9 @@ auc(ROC_glm40) ## Resultado: "Area under the curve: 0.723"
 
 "Vistos los resultados, el seleccionar un umbral de 40, mejora la predicción de casos positivos de supervivencia."
 ```
+
+```{r}
+library(knitr)
+purl("Dia_84_8junio.Rmd", "main.r")
+```
+
